@@ -174,11 +174,11 @@ Najčešći način pretvorbe stringa u druge tipove je korištenjem **Parse meto
 
 Svaki tip podatka ima svoju Parse metodu:
 ```csharp
-- `int.Parse()`
-- `double.Parse()`
-- `float.Parse()`
-- `bool.Parse()`
-- `char.Parse()`
+int.Parse()
+double.Parse()
+float.Parse()
+bool.Parse()
+char.Parse()
 ```
 
 ## 3. Primjeri Parse pretvorbi
